@@ -50,7 +50,6 @@ propFTX/
 ### 1. Clone the repository
 ```powershell
 https://github.com/badrisinghoo7/CeneplixMovies.git
-cd propFTX
 ```
 
 ### 2. Install dependencies
@@ -94,8 +93,8 @@ npm run dev
 ---
 
 ## 🔑 Admin Panel Credentials
-- **Email:** admin123@gmail.com
-- **Password:** admin123
+- **Email:** admin@gmail.com
+- **Password:** admin
 
 ---
 
