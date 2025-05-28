@@ -5,7 +5,7 @@ A full-stack Movie Explorer web application with role-based authentication, buil
 ---
 
 ## 🌐 Live Demo
-- **Frontend:** [Link Here==>>(https://ceneplix-movies.vercel.app/)]
+- **Frontend:** [https://ceneplix-movies.vercel.app/]
 - **Backend API:** [http://localhost:8080/](http://localhost:8080/)
 - **GitHub Repo:** [https://github.com/badrisinghoo7/CeneplixMovies]
 
