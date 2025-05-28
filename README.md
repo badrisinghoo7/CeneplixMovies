@@ -1,26 +1,32 @@
-# propFTX
+# CinePlix Movies
 
 A full-stack Movie Explorer web application with role-based authentication, built with React (frontend) and Node.js/Express/MongoDB (backend).
 
 ---
 
 ## 🌐 Live Demo
+<<<<<<< HEAD
 - **Frontend:** [https://prop-ftx.vercel.app/](https://prop-ftx.vercel.app/)
 - **Backend API:** [https://ceneplixmovies.onrender.com/](https://ceneplixmovies.onrender.com/)
 - **GitHub Repo:** [https://github.com/Hemant142/propFTX](https://github.com/Hemant142/propFTX)
+=======
+- **Frontend:** [https://ceneplix-movies.vercel.app/]
+- **Backend API:** [http://localhost:8080/](http://localhost:8080/)
+- **GitHub Repo:** [https://github.com/badrisinghoo7/CeneplixMovies]
+>>>>>>> 740902e703b35c131d701f696a3162a6c11529cb
 
 ---
 
 ## 📸 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](https://i.postimg.cc/Jhq7qQ3V/Laptop-Admin-Dashboard.png)
+[![Admin-Dashboard.png](https://i.postimg.cc/zBMqWN3c/Admin-Dashboard.png)](https://postimg.cc/S260Fw66)
 
 ### Login Page
-![Login Page](https://i.postimg.cc/LXQ9d60x/Laptop-Login.png)
+[![Login.png](https://i.postimg.cc/kgc6SVCY/Login.png)](https://postimg.cc/DSSwkw81)
 
 ### User Dashboard
-![User Dashboard](https://i.postimg.cc/T1yRTMzf/Laptop-User-Dashboard.png)
+[![User-Dashboard.png](https://i.postimg.cc/ZK6yT7MS/User-Dashboard.png)](https://postimg.cc/fJTbCKs2)
 
 ---
 
@@ -38,7 +44,7 @@ A full-stack Movie Explorer web application with role-based authentication, buil
 
 ## 🗂️ Project Structure
 ```
-propFTX/
+CinePlix Movies/
   backend/    # Node.js/Express/MongoDB API
   frontend/   # React + Vite frontend
 ```
@@ -49,8 +55,7 @@ propFTX/
 
 ### 1. Clone the repository
 ```powershell
-git clone https://github.com/Hemant142/propFTX.git
-cd propFTX
+https://github.com/badrisinghoo7/CeneplixMovies.git
 ```
 
 ### 2. Install dependencies
@@ -88,19 +93,19 @@ npm run dev
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Material-UI
+- **Frontend:** React, Vite, TailwindCss
 - **Backend:** Node.js, Express, MongoDB, Mongoose, JWT
 
 ---
 
 ## 🔑 Admin Panel Credentials
-- **Email:** admin123@gmail.com
-- **Password:** admin123
+- **Email:** admin@gmail.com
+- **Password:** admin
 
 ---
 
 ## 🙏 Acknowledgements
-- [Material-UI](https://mui.com/)
+- [Tailwind.Css]
 - [Vite](https://vitejs.dev/)
 - [MongoDB](https://www.mongodb.com/)
 
