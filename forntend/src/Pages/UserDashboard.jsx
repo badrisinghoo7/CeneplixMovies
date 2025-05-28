@@ -13,7 +13,7 @@ export default function UserDashboard({ search, setSearch }) {
   const [moviesPerPage, setMoviesPerPage] = useState(10);
 
   const fetchMovies = async () => {
-    const res = await fetch('http://localhost:8080/movies', {
+    const res = await fetch('https://ceneplixmovies.onrender.com/movies', {
       headers: { Authorization: `Bearer ${token}` },
     });
     const data = await res.json();

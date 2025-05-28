@@ -6,7 +6,7 @@ A full-stack Movie Explorer web application with role-based authentication, buil
 
 ## 🌐 Live Demo
 - **Frontend:** [https://prop-ftx.vercel.app/](https://prop-ftx.vercel.app/)
-- **Backend API:** [http://localhost:8080/](http://localhost:8080/)
+- **Backend API:** [https://ceneplixmovies.onrender.com/](https://ceneplixmovies.onrender.com/)
 - **GitHub Repo:** [https://github.com/Hemant142/propFTX](https://github.com/Hemant142/propFTX)
 
 ---

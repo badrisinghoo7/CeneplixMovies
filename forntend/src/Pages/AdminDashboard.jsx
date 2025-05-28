@@ -12,7 +12,7 @@ export default function AdminDashboard() {
   const [moviesPerPage, setMoviesPerPage] = useState(10);
 
   const fetchMovies = async () => {
-    const res = await fetch('http://localhost:8080/movies', {
+    const res = await fetch('https://ceneplixmovies.onrender.com/movies', {
       headers: { Authorization: `Bearer ${token}` },
     });
     const data = await res.json();
@@ -35,7 +35,7 @@ export default function AdminDashboard() {
 
   const handleSubmit = async () => {
     const method = editMovie ? 'PUT' : 'POST';
-    const url = editMovie ? `http://localhost:8080/movies/${editMovie._id}` : 'http://localhost:8080/movies';
+    const url = editMovie ? `https://ceneplixmovies.onrender.com/movies/${editMovie._id}` : 'https://ceneplixmovies.onrender.com/movies';
     await fetch(url, {
       method,
       headers: {
@@ -50,7 +50,7 @@ export default function AdminDashboard() {
   };
 
   const handleDelete = async (id) => {
-    await fetch(`http://localhost:8080/movies/${id}`, {
+    await fetch(`https://ceneplixmovies.onrender.com/movies/${id}`, {
       method: 'DELETE',
       headers: { Authorization: `Bearer ${token}` },
     });
