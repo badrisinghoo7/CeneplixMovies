@@ -7,7 +7,7 @@ A full-stack Movie Explorer web application with role-based authentication, buil
 ## 🌐 Live Demo
 - **Frontend:** [https://prop-ftx.vercel.app/](https://prop-ftx.vercel.app/)
 - **Backend API:** [http://localhost:8080/](http://localhost:8080/)
-- **GitHub Repo:** [https://github.com/Hemant142/propFTX](https://github.com/Hemant142/propFTX)
+- **GitHub Repo:** [https://github.com/badrisinghoo7/CeneplixMovies]
 
 ---
 
@@ -49,7 +49,7 @@ propFTX/
 
 ### 1. Clone the repository
 ```powershell
-git clone https://github.com/Hemant142/propFTX.git
+https://github.com/badrisinghoo7/CeneplixMovies.git
 cd propFTX
 ```
 
@@ -88,7 +88,7 @@ npm run dev
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Material-UI
+- **Frontend:** React, Vite, TailwindCss
 - **Backend:** Node.js, Express, MongoDB, Mongoose, JWT
 
 ---
@@ -100,7 +100,7 @@ npm run dev
 ---
 
 ## 🙏 Acknowledgements
-- [Material-UI](https://mui.com/)
+- [Tailwind.Css]
 - [Vite](https://vitejs.dev/)
 - [MongoDB](https://www.mongodb.com/)
 
