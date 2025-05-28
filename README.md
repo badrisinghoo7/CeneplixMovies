@@ -14,13 +14,13 @@ A full-stack Movie Explorer web application with role-based authentication, buil
 ## 📸 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](https://i.postimg.cc/Jhq7qQ3V/Laptop-Admin-Dashboard.png)
+[![Admin-Dashboard.png](https://i.postimg.cc/zBMqWN3c/Admin-Dashboard.png)](https://postimg.cc/S260Fw66)
 
 ### Login Page
-![Login Page](https://i.postimg.cc/LXQ9d60x/Laptop-Login.png)
+[![Login.png](https://i.postimg.cc/kgc6SVCY/Login.png)](https://postimg.cc/DSSwkw81)
 
 ### User Dashboard
-![User Dashboard](https://i.postimg.cc/T1yRTMzf/Laptop-User-Dashboard.png)
+[![User-Dashboard.png](https://i.postimg.cc/ZK6yT7MS/User-Dashboard.png)](https://postimg.cc/fJTbCKs2)
 
 ---
 
