@@ -38,7 +38,7 @@ A full-stack Movie Explorer web application with role-based authentication, buil
 
 ## 🗂️ Project Structure
 ```
-propFTX/
+CinePlix Movies/
   backend/    # Node.js/Express/MongoDB API
   frontend/   # React + Vite frontend
 ```
