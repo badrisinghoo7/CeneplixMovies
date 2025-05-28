@@ -1,4 +1,4 @@
-# propFTX
+# CinePlix Movies
 
 A full-stack Movie Explorer web application with role-based authentication, built with React (frontend) and Node.js/Express/MongoDB (backend).
 
